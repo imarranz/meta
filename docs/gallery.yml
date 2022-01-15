@@ -270,4 +270,7 @@
   website: https://prodigiouspython.github.io/ProdigiousPython
   repository: https://github.com/ProdigiousPython/ProdigiousPython
   image: https://raw.githubusercontent.com/ProdigiousPython/AssetStore/main/Prodigious%20Python%20Main%20logo.png
-
+- name: "PYGENMET - A Python Package for Genetic Algorithms Using Metabolomic Data"
+  website: http://www.imarranz.com/pygenmet-manual/docs
+  repository: https://github.com/imarranz/pygenmet-manual
+  image: http://www.imarranz.com/pygenmet-manual/_images/logo.png
